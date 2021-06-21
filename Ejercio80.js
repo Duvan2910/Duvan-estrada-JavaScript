@@ -1,0 +1,1 @@
+var node = document.createTextNode("Some new text");
