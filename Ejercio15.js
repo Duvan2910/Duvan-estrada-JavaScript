@@ -1,0 +1,1 @@
+var myVariable = 26 % 6;
